@@ -36,41 +36,273 @@ h3 {
   width: 800px;
 }
 
-#box1 {
+#blue {
   background-color: blue;
 }
 
-#box2 {
+#yellow {
   background-color: yellow;
 }
 
 /* Germany */
-
+#germany div {
+  height:116px;
+  width:800px
+}
+#black {
+  background-color: black
+}
+#red {
+  background-color:red
+}
+#yellow {
+  background-color: yellow
+}
 
 /* Lithuania */
-
+#lithuania div {
+  height: 116px;
+  width:800px
+}
+#yellow {
+  background-color: yellow
+}
+#green {
+  background-color: green
+}
+#red {
+  background-color: red
+}
 /* Yemen */
+#yemen div {
+  height: 116px;
+  width:800px;
+}
+#red {
+  background-color: red
+}
+#blackandwhite {
+  background-color: black;
+  margin: 116px 116px 0px 0px;
+}
 
 /* The Gambia */
+#gambia div {
+  height: 100px;
+  width: 800px;
+}
+#red {
+  background-color: red
+}
+#white-blue-white {
+  background-color: blue;
+  margin: 20px 20px 20px 0px;
+}
+#green {
+  background-color: green
+}
 
-/* Yemen */
-
-/* The Gambia */
 
 /* Chad */
-
+#chad div {
+  height: 350px;
+  width: 260px;
+}
+#verticalblue {
+  float:left;
+  background-color: blue;
+}
+#verticalyellow {
+  background-color: yellow;
+  float: left;
+}
+#verticalred {
+  background-color: red;
+  float:left;
+}
 /* France */
+#france div {
+  height: 350px;
+  width: 260px;
+}
+#verticalblue {
+  float: left;
+}
+#verticalredandwhite {
+  float:left;
+  background-color: red;
+  margin: 0px 0px 0px 260px;
+}
 
 /* Benin */
-
+#benin div {
+  height: 350px;
+  width:200px;
+}
+#verticalgreen {
+  background-color: green;
+  float: left;
+}
+#yellow2 {
+  float: left;
+  background-color: yellow;
+  height: 175px;
+}
+#red2 {
+  float: left;
+  background-color: red;
+  height: 175px;
+}
 /* UAE */
-
+#uae div {
+  height: 350px;
+  width: 200px;
+}
+#verticalred {
+  float: left;
+  background-color: red;
+}
+#green2 {
+  float: left;
+  background-color: green;
+  height: 116px;
+}
+#white2 {
+  float: left;
+  background-color: white;
+  height: 116px;
+}
+#black2 {
+  float: left;
+  background-color: black;
+  height: 116px;
+}
 /* Denmark */
+#denmark div {
+  height: 140px;
+  width: 200px;
+}
+#redsquare {
+  float: left;
+  background-color: red;
+}
+#redrectangle {
+  float: left;
+  height: 140px;
+  width: 550px;
+  background-color: red;
+  margin: 0px 0px 50px 50px;
+}
+#redsquare2 {
+  background-color:red;
+  margin: 0px 50px 0px 0px;
+  float: left;
+}
+#redrectangle2 {
+  float: left;
+  background-color: red;
+  height: 140px;
+  width: 610px;
+}
 
-/* Norway */ 
-
+/* Norway */
+#norway div{
+  height: 125px;
+  width: 140px;
+}
+#topleftredsquare {
+  float: left;
+  background-color: red;
+  margin:0px 25px 20px 0px;
+}
+#smallbluerectangle {
+  background-color: blue;
+  float: left;
+  width: 50px;
+  height: 145px;
+}
+#toprightredrectangle {
+  background-color: red;
+  float: left;
+  width: 570px;
+  margin: 0px 0px 20px 25px;
+}
+#bigbluerectangle {
+  background-color: blue;
+  height: 50px;
+  width: 800px;
+  float: left;
+}
+#bottomleftredsquare {
+  float: left;
+  background-color: red;
+  margin: 20px 25px 0px 0px;
+}
+#smallbluerectangle {
+  float: left;
+  background-color: blue;
+  width: 50px;
+  height: 145px;
+}
+#bottomrightredrectangle {
+  float: left;
+  background-color: red;
+  margin: 20px 0px 0px 25px;
+  width: 570px;
+}
 /* Greece */
-
-
+#greece div {
+  height: 36px;
+  width: 800px;
+}
+#greecesquare {
+  background-color: blue;
+  height: 70px;
+  width: 70px;
+  float: left;
+  margin: 0px 0px 0px 0px;
+}
+#whitemiddleblock {
+  background-color: white;
+  height: 40px;
+  width: 180px;
+  float: left;
+}
+#white1 {
+  background-color: white;
+  height: 70px;
+  width: 40px;
+  float: left;
+}
+#blueshorttop {
+  background-color: blue;
+  height: 36px;
+  width: 590px;
+  float: left;
+  margin: 0px 0px 34px 0px;
+}
+#blueshortmiddle {
+  background-color:blue;
+  height: 40px;
+  width: 590px;
+  float: left;
+}
+#blueshortbottom {
+  background-color: blue;
+  height: 36px;
+  width: 590px;
+  float: left;
+  margin: 34px 0px 0px 0px;
+}
+#whitelong {
+  background-color: white;
+  height: 40px;
+  width: 800px;
+  float: left;
+}
+#bluelong {
+  background-color: blue;
+  float: left;
+}
 
 
